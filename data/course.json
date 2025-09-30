@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ]
+  ],
+  "legacy_uid": "85af7314-0b81-0a95-2e1b-5d0450e098f8",
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4fcc372c-0018-3a60-07ed-8a6b4875655f",
+    "website": "21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018"
+  },
+  "course_title": "American Dream: Using Storytelling to Explore Social Class in the United States",
+  "hide_download": true,
+  "course_description": "This course explores the experiences and understandings of class among Americans positioned at different points along the U.S. social spectrum. It considers a variety of classic frameworks for analyzing social class and uses memoirs, novels, and ethnographies to gain a sense of how class is experienced in daily life and how it intersects with other forms of social difference such as race and gender.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.120",
+  "course_image_thumbnail": {
+    "content": "d9d0a824-a15d-0dea-0c85-995178896b8f",
+    "website": "21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "560a41b0-4809-4b2d-a8b7-e086c6a561fa",
+  "site_short_id": "21a.120-spring-2018",
+  "site_url_path": "courses/21a-120-american-dream-using-storytelling-to-explore-social-class-in-the-united-states-spring-2018",
+  "title": "Course Metadata"
+}

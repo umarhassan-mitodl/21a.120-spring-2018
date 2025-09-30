@@ -1,0 +1,29 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 40c8a7a1-3b01-3e52-7e1f-8fadcadcd553
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f5b46b04-826a-ee2a-eb07-a9462553eb3a
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 2beee354-53e5-3670-f4a9-bc0d6a2ee3ed
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: f93cb84f-5f25-c20b-afb1-d781cf32d429
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 9bd0daf3-839b-e196-2489-7aba57745ac6
+  name: Oral History Assignment
+  pageRef: /pages/assignments/oral-history-assignment
+  parent: f93cb84f-5f25-c20b-afb1-d781cf32d429
+  weight: 50
+- identifier: 65432598-a80e-7f94-f2b1-a72f025717ac
+  name: 'Museum Exhibit Design Project '
+  pageRef: /pages/assignments/museum-exhibit-design-project
+  parent: f93cb84f-5f25-c20b-afb1-d781cf32d429
+  weight: 60
