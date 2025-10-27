@@ -30,7 +30,7 @@ Begin thinking about the type of museum display you’d like to do and briefly d
 
 _Step Four_
 
-Figure out what additional info might be needed to tell the story / analysis you’d like to offer and let the instructor know so we can look for any additional material (if needed). Meet with [MIT Museum](https://mitmuseum.mit.edu/) curators to understand how they go about designing exhibits. Consider if any of these techniques might be of use in your project.
+Figure out what additional info might be needed to tell the story / analysis you’d like to offer and let the instructor know so we can look for any additional material (if needed). Meet with {{% resource_link "055315cc-ab88-4ecf-9104-2c84c5c500b0" "MIT Museum" %}} curators to understand how they go about designing exhibits. Consider if any of these techniques might be of use in your project.
 
 _Step Five_
 

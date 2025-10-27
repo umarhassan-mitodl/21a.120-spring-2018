@@ -21,7 +21,7 @@ The interview should be semi-structured, meaning some mix of general questions a
 
 _Post-Interview_
 
-You can download a trial version of [Express Scribe Transcription Software](https://www.nch.com.au/scribe/index.html) for free on your computer. Using your notes to help you, select a 20 minute passage of the interview that seems particularly compelling for transcription. The transcription software will allow you to slow down or speed up the recording to assist with typing at an even pace. Pay close attention to nuances of language and emotional affect. If someone laughs, cries, or expresses other emotions you might want to note this in parentheses in the text, i.e. (laughter), (angrily) etc.
+You can download a trial version of {{% resource_link "8dd42bc5-e4ad-4b9a-8c04-f99e6955b6ad" "Express Scribe Transcription Software" %}} for free on your computer. Using your notes to help you, select a 20 minute passage of the interview that seems particularly compelling for transcription. The transcription software will allow you to slow down or speed up the recording to assist with typing at an even pace. Pay close attention to nuances of language and emotional affect. If someone laughs, cries, or expresses other emotions you might want to note this in parentheses in the text, i.e. (laughter), (angrily) etc.
 
 _Write-up_
 
